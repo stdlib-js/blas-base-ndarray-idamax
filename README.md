@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import idamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-idamax@deno/mod.js';
+import idamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-idamax@v0.0.0-deno/mod.js';
 ```
 
 #### idamax( arrays )
@@ -81,7 +81,7 @@ The function has the following parameters:
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import idamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-idamax@deno/mod.js';
+import idamax from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-ndarray-idamax@v0.0.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
