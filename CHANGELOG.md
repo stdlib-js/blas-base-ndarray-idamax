@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-31)
+## Unreleased (2026-06-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f84f6d0`](https://github.com/stdlib-js/stdlib/commit/f84f6d09d7132ee20cf04d11ff8cd7c339158d6d) - **style:** fix return annotation _(by Athan Reines)_
 -   [`fa63e96`](https://github.com/stdlib-js/stdlib/commit/fa63e96848015bb73e82bae42d188989588810f8) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`f874802`](https://github.com/stdlib-js/stdlib/commit/f87480203da0168a35c4303c1e727b7c84c30eb7) - **feat:** add `blas/base/ndarray/idamax` [(#12397)](https://github.com/stdlib-js/stdlib/pull/12397) _(by Kaustubh Patange, Athan Reines)_
 
